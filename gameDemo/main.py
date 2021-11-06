@@ -290,7 +290,7 @@ def displayRequest(DISPLAYSURF, activeRequests, timer):
             colorRequest = RED
         else:
             colorRequest = LIGHTGRAY
-        pygame.draw.rect(DISPLAYSURF, colorRequest, requestBox)
+        pygame.draw.rect(DISPLAYSURF, colorRequest, requestBox) 
         pygame.font.init()
         myfont = pygame.font.SysFont('Calibri', 30)
         textsurface = myfont.render(f'({request.sourceNode.getName()}, {request.destNode.getName()}, {request.bandWidth})', False, WHITE)
