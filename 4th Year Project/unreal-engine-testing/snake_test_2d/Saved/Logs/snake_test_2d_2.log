@@ -895,3 +895,87 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.09-15.27.20:181][  2]LogAssetRegistry: Asset discovery search completed in 36.0161 seconds
 [2021.11.09-15.27.20:218][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2021.11.09-15.46.47:787][901]LogSlate: Took 0.016375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.09-15.47.47:830][ 69]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-15.47.47:882][ 69]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-15.47.51:263][266]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2021.11.09-15.47.51:272][266]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-15.48.03:885][379]LogSlate: Window 'Save Level As' being destroyed
+[2021.11.09-15.48.04:275][379]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.09-15.48.04:437][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.11.09-15.48.04:600][379]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/GameplayD69F13EC4A1E595D743EBC94793F7D48.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.09-15.48.04:699][379]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData540E9A42450CCEE9E101458C865F6B44.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.09-15.48.04:714][379]LogFileHelpers: Saving map 'Gameplay' took 0.545
+[2021.11.09-15.48.04:718][379]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.09-15.48.04:718][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.09-15.48.04:719][379]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.09-15.48.23:477][455]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.09-15.48.23:484][455]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.09-15.48.27:925][722]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2021.11.09-15.48.27:925][722]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.09-15.48.35:315][126]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2021.11.09-15.48.35:323][126]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2021.11.09-15.48.44:109][652]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BP_UI_HUD
+[2021.11.09-15.48.44:556][652]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2021.11.09-15.48.53:748][163]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-15.48.54:546][163]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 126 classes and 0 folders.
+[2021.11.09-15.48.58:342][163]LogSlate: Took 0.022184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.09-15.50.59:302][210]LogSlate: Took 0.090695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.09-15.51.50:427][752]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-15.52.54:661][ 60]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-15.53.06:681][695]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-15.53.06:761][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2021.11.09-15.53.12:594][  2]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUDAC620D5249B70E949E661E8B5EB5D781.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-15.53.12:613][  2]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-15.53.12:613][  2]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-15.55.11:532][ 97]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD91FC822A48C8297345C55A915A13051E.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-15.55.11:554][ 97]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-15.55.11:554][ 97]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-15.57.21:374][140]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-15.57.22:001][140]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.11.09-15.57.22:782][168]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUDED08F5A54FE7EDC29B6E6D93CE9DD48E.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-15.57.22:806][168]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-15.57.22:806][168]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-15.58.10:889][344]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-15.58.51:305][212]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-15.58.51:363][212]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.11.09-15.58.52:245][241]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD146C3BAE4B04006BF6D2FD82D1CC8EDD.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-15.58.52:264][241]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-15.58.52:264][241]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-15.59.59:995][292]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-16.00.05:330][518]LogSlate: Window 'Color Picker' being destroyed
+[2021.11.09-16.00.32:041][772]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-16.00.32:096][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2021.11.09-16.00.32:812][801]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD807CD88B4865A9217310678F51B63283.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-16.00.32:827][801]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-16.00.32:827][801]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-16.02.03:385][542]LogSlate: Took 0.021195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.09-16.02.53:604][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.09-16.02.53:608][ 29]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.047
+[2021.11.09-16.02.53:623][ 29]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_UI_HUD] ([2] browsable assets)...
+[2021.11.09-16.02.53:623][ 29]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_UI_HUD]
+[2021.11.09-16.02.53:650][ 29]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD_Auto150C8003B498ED43FD41F4988C3EB584E.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_UI_HUD_Auto1.uasset'
+[2021.11.09-16.02.53:666][ 29]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.11.09-16.04.55:171][113]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-16.04.55:474][113]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.11.09-16.04.57:028][181]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD97F459174CA6E4E3EB11C98EBB381409.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-16.04.57:043][181]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-16.04.57:043][181]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-16.06.45:396][862]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-16.06.45:446][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.11.09-16.06.46:713][910]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUDA2BBFB0E48FC81EA6AC9328DC3A3D389.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-16.06.46:730][910]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-16.06.46:730][910]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-16.11.27:213][535]LogSlate: Took 0.020595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.09-16.13.42:361][784]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.11.09-16.13.42:363][784]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.037
+[2021.11.09-16.13.42:364][784]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_UI_HUD] ([2] browsable assets)...
+[2021.11.09-16.13.42:364][784]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_UI_HUD]
+[2021.11.09-16.13.42:675][784]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD_Auto2407FB9D7438389966017EE8F1A99863F.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_UI_HUD_Auto2.uasset'
+[2021.11.09-16.13.42:676][784]LogFileHelpers: Auto-saving content packages took 0.313
+[2021.11.09-16.16.07:296][937]LogBlueprint: Warning: [AssetLog] C:\Users\f4nyt\Documents\GitHub\4th-year-project\4th Year Project\unreal-engine-testing\snake_test_2d\Content\Blueprints\BP_UI_HUD.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Construct  and was replaced as a Custom Event!
+[2021.11.09-16.18.31:902][ 92]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.09-16.18.31:989][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2021.11.09-16.18.32:820][125]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD1FE691CB46B3C451A8712587354058EF.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.09-16.18.32:834][125]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.09-16.18.32:835][125]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.09-16.19.06:111][773]LogSlate: Window 'BP_UI_HUD' being destroyed
