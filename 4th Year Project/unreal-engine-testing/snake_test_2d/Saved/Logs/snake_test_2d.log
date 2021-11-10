@@ -947,3 +947,446 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.10-14.58.10:447][662]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame999973174F6ABB249819DEBD4A5EAD05.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
 [2021.11.10-14.58.10:463][662]AssetCheck: New page: Asset Save: BP_MainGame
 [2021.11.10-14.58.10:463][662]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.00.55:982][697]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.00.56:054][697]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2021.11.10-15.00.56:565][724]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame3DC904C6404CEA483E2D4CA714A5C7A6.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.00.56:580][724]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.00.56:580][724]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.01.06:296][288]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.01.06:342][288]LogBlueprint: Error: [AssetLog] C:\Users\f4nyt\Documents\GitHub\4th-year-project\4th Year Project\unreal-engine-testing\snake_test_2d\Content\Blueprints\BP_MainGame.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2021.11.10-15.01.06:451][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.10-15.01.06:563][288]LogSlate: Took 0.036784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.10-15.01.22:478][217]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.10-15.02.12:213][121]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.02.12:284][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.11.10-15.02.12:996][159]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameB73AFF604BFCA26EDCA631B29D58EA52.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.02.13:011][159]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.02.13:011][159]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.02.56:900][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.11.10-15.02.56:957][518]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto100F16923488AC1C440759B9CB81FDCDE.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto1.umap'
+[2021.11.10-15.02.56:959][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.099
+[2021.11.10-15.02.56:959][518]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.099
+[2021.11.10-15.02.56:959][518]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([2] browsable assets)...
+[2021.11.10-15.02.56:959][518]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.10-15.02.56:988][518]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto10EA59F764E33ED7BF3C53CA422F672CA.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto1.uasset'
+[2021.11.10-15.02.56:989][518]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.11.10-15.05.07:943][520]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.05.08:021][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.11.10-15.05.08:461][541]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame68BAC0E04E6D7A62C38D5DA964C485D2.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.05.08:479][541]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.05.08:479][541]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.05.14:391][892]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.05.14:462][892]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.11.10-15.05.15:043][921]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame66EBEFAB449244ABACE814B344E41341.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.05.15:060][921]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.05.15:060][921]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.05.19:619][172]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.05.19:769][172]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.05.19:786][172]PIE: New page: PIE session: Gameplay (Nov 10, 2021, 3:05:19 PM)
+[2021.11.10-15.05.19:897][172]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.10-15.05.19:909][172]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.10-15.05.19:928][172]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.05.19:983][172]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046365s)
+[2021.11.10-15.05.20:003][172]LogAIModule: Creating AISystem for world Gameplay
+[2021.11.10-15.05.20:045][172]LogPlayLevel: PIE: World Init took: (0.061218s)
+[2021.11.10-15.05.20:045][172]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.116948s)
+[2021.11.10-15.05.20:084][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.10-15.05.20:086][172]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.05.20:086][172]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.05.20:086][172]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.05.20:087][172]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-15.05.20:087][172]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-15.05.20:087][172]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-15.05.20:087][172]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.05.20:111][172]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.05.20:111][172]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.05.20:130][172]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.10-15.05.20:130][172]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.05.20:130][172]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.05.20:130][172]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.05.20:131][172]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.05.20:131][172]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.05.20:131][172]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.05.20:132][172]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.05.20:132][172]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.05.20:132][172]LogInit: FAudioDevice initialized.
+[2021.11.10-15.05.20:132][172]LogAudio: Display: Audio Device (ID: 2) registered with world 'Gameplay'.
+[2021.11.10-15.05.20:172][172]LogLoad: Game class is 'GameModeBase'
+[2021.11.10-15.05.20:173][172]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.11.10-15.05.20
+[2021.11.10-15.05.20:217][172]LogWorld: Bringing up level for play took: 0.026946
+[2021.11.10-15.05.20:219][172]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.11.10-15.05.20:436][172]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.11.10-15.05.20:673][172]PIE: Server logged in
+[2021.11.10-15.05.20:683][172]PIE: Play in editor total start time 1.024 seconds.
+[2021.11.10-15.05.37:883][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.05.37:883][102]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.05.37:931][102]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.05.37:951][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.05.37:979][102]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.05.38:047][102]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.05.38:094][102]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.05.38:182][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.05.38:184][102]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.05.38:188][102]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.05.38:297][102]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
+[2021.11.10-15.05.38:345][103]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.11.10-15.05.44:135][424]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2021.11.10-15.05.44:143][424]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay69B5044647825B56B67AF3A3228B4E76.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.05.44:201][424]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltDataCCBBCE0942E6EE2CD6EB59B315904AD6.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.05.44:215][424]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.05.44:215][424]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.05.44:215][424]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-15.05.49:023][688]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (GreyBackground_Sprite)
+[2021.11.10-15.08.02:208][638]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.08.02:287][638]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.11.10-15.08.03:276][691]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame5B1381D94301EB5D1470C8873F9D6D3D.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.08.03:292][691]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.08.03:292][691]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.09.37:079][328]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.09.37:160][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2021.11.10-15.09.37:866][365]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameAD5954E64E3C6D2A581ABA95BBC081D6.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.09.37:880][365]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.09.37:880][365]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.09.56:370][443]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.09.56:450][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2021.11.10-15.09.56:990][470]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame97781E6245E413D4959B49939ADA7A3D.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.09.57:005][470]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.09.57:005][470]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.12.25:611][155]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.12.25:695][155]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.11.10-15.12.26:250][183]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame82650BA3441EC42BE096EA81656F18F2.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.12.26:266][183]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.12.26:266][183]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.12.52:997][ 16]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.12.53:076][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.11.10-15.12.53:503][ 37]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame4037ED12474CF94A2843E093C8B1F44F.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.12.53:519][ 37]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.12.53:519][ 37]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.13.14:103][620]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.13.14:179][620]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.11.10-15.13.14:641][641]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame991AC924482A31E9D6665392789A748D.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.13.14:662][641]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.13.14:662][641]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.13.40:521][141]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.13.40:600][141]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2021.11.10-15.13.41:081][164]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameF90182BC4BBEBB1A764716AC28B29E89.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.13.41:096][164]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.13.41:097][164]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.13.45:986][454]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.13.46:062][454]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2021.11.10-15.13.46:560][477]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameF71D3E524535A88C5D8F94BB7A7D5A04.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.13.46:580][477]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.13.46:580][477]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.13.54:984][974]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.11.10-15.13.54:990][974]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay713053F849DDA0A30725ECA55A6E092C.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.13.55:015][974]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltDataD83F8F4348EF99357BF346BFBB65ED01.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.13.55:032][974]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.13.55:032][974]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.13.55:032][974]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-15.13.57:831][124]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.13.57:838][124]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.13.57:838][124]PIE: New page: PIE session: Gameplay (Nov 10, 2021, 3:13:57 PM)
+[2021.11.10-15.13.57:838][124]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.13.57:839][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001341s)
+[2021.11.10-15.13.57:841][124]LogAIModule: Creating AISystem for world Gameplay
+[2021.11.10-15.13.57:841][124]LogPlayLevel: PIE: World Init took: (0.001554s)
+[2021.11.10-15.13.57:841][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.002991s)
+[2021.11.10-15.13.57:887][124]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.11.10-15.13.57:888][124]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.13.57:888][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.13.57:888][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.13.57:889][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-15.13.57:889][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-15.13.57:889][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-15.13.57:889][124]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.13.57:895][124]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.13.57:895][124]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.13.57:911][124]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.10-15.13.57:911][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.13.57:911][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.13.57:911][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.13.57:912][124]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.13.57:912][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.13.57:912][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.13.57:913][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.13.57:913][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.13.57:913][124]LogInit: FAudioDevice initialized.
+[2021.11.10-15.13.57:913][124]LogAudio: Display: Audio Device (ID: 3) registered with world 'Gameplay'.
+[2021.11.10-15.13.57:918][124]LogLoad: Game class is 'GameModeBase'
+[2021.11.10-15.13.57:919][124]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.11.10-15.13.57
+[2021.11.10-15.13.57:920][124]LogWorld: Bringing up level for play took: 0.000425
+[2021.11.10-15.13.57:920][124]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.11.10-15.13.58:114][124]PIE: Server logged in
+[2021.11.10-15.13.58:115][124]PIE: Play in editor total start time 0.28 seconds.
+[2021.11.10-15.14.39:506][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.14.39:506][574]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.14.39:506][574]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.14.39:506][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.14.39:511][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.14.39:529][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.14.39:569][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.14.39:569][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.14.39:570][574]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.14.39:578][574]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.11.10-15.14.39:596][575]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.11.10-15.14.48:492][ 97]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.14.48:572][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.10-15.14.49:130][124]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame7701C11B4FBD663C747789A9E28F4C8F.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.14.49:145][124]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.14.49:145][124]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.15.04:984][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.11.10-15.15.04:990][ 64]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay8F22662942A16CD5A11342871527122C.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.15.05:013][ 64]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData9F5D6B26457F105779D79F850CAB64A1.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.15.05:028][ 64]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.15.05:028][ 64]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.15.05:028][ 64]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-15.15.10:360][382]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.15.10:366][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.15.10:366][382]PIE: New page: PIE session: Gameplay (Nov 10, 2021, 3:15:10 PM)
+[2021.11.10-15.15.10:366][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.15.10:368][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001329s)
+[2021.11.10-15.15.10:368][382]LogAIModule: Creating AISystem for world Gameplay
+[2021.11.10-15.15.10:369][382]LogPlayLevel: PIE: World Init took: (0.000895s)
+[2021.11.10-15.15.10:369][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.002326s)
+[2021.11.10-15.15.10:415][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.11.10-15.15.10:417][382]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.15.10:417][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.15.10:417][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-15.15.10:417][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-15.15.10:417][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-15.15.10:417][382]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.15.10:422][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.15.10:422][382]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.15.10:440][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.15.10:440][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.15.10:441][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.15.10:441][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.15.10:441][382]LogInit: FAudioDevice initialized.
+[2021.11.10-15.15.10:441][382]LogAudio: Display: Audio Device (ID: 4) registered with world 'Gameplay'.
+[2021.11.10-15.15.10:450][382]LogLoad: Game class is 'GameModeBase'
+[2021.11.10-15.15.10:451][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.11.10-15.15.10
+[2021.11.10-15.15.10:451][382]LogWorld: Bringing up level for play took: 0.000410
+[2021.11.10-15.15.10:451][382]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.11.10-15.15.10:747][382]PIE: Server logged in
+[2021.11.10-15.15.10:748][382]PIE: Play in editor total start time 0.384 seconds.
+[2021.11.10-15.15.23:907][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.15.23:907][164]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.15.23:907][164]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.15.23:907][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.15.23:912][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.15.23:929][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.15.23:969][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.15.23:969][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.15.23:970][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.15.23:976][164]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.11.10-15.15.23:994][165]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.11.10-15.21.13:435][484]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.21.13:522][484]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.11.10-15.21.14:211][520]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame7308A6D046322EDCC6C78EAE585C63D8.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.21.14:230][520]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.21.14:230][520]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.27.08:733][927]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-15.27.08:756][927]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.10-15.28.06:221][907]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.11.10-15.28.06:228][907]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto2FB4BFA60481EB73719FFE89C1BC61EB3.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto2.umap'
+[2021.11.10-15.28.06:230][907]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.064
+[2021.11.10-15.28.06:230][907]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.11.10-15.28.06:230][907]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([2] browsable assets)...
+[2021.11.10-15.28.06:230][907]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.10-15.28.06:275][907]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto2F15BBD0C47D899ED6E329A97DA2FE1CF.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto2.uasset'
+[2021.11.10-15.28.06:276][907]LogFileHelpers: Auto-saving content packages took 0.046
+[2021.11.10-15.35.56:682][872]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.35.56:768][872]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.11.10-15.35.57:592][914]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameC9DDFB7A4C56DFCE9194EBBD4D4A6C28.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.35.57:617][914]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.35.57:617][914]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.36.01:399][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.11.10-15.36.01:407][126]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay2896E20B4D78F7CBB9E6E88C5048B565.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.36.01:434][126]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData71ABBD704C517A90CC90C39EA9572409.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.36.01:450][126]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.36.01:450][126]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.36.01:450][126]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-15.36.26:318][373]LogSlate: Took 0.070771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.11.10-15.36.26:333][373]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: ' (U+0096)'
+[2021.11.10-15.36.26:421][373]LogSlate: Took 0.086580 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2021.11.10-15.36.58:819][293]LogSlate: Window 'Source Control Login' being destroyed
+[2021.11.10-15.37.25:063][663]LogSlate: Window 'Source Control Login' being destroyed
+[2021.11.10-15.37.58:073][ 72]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (GreyBackground_Sprite)
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:695][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:696][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.32:697][990]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.38.34:539][990]EditorErrors: Warning: No assets to check in!
+[2021.11.10-15.38.40:096][305]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-15.38.40:102][305]LogSlate: Window 'Message Log' being destroyed
+[2021.11.10-15.38.53:926][ 77]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-15.38.54:021][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.11.10-15.38.54:644][ 99]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameE9B0C43C453D74779917FC9C0FA08BE0.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-15.38.54:669][ 99]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-15.38.54:669][ 99]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-15.38.56:308][185]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.11.10-15.38.56:317][185]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay912453DC4CB66CD16EB867A826A7CB5C.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.38.56:437][185]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData0F22714646371F0168432E9AB76210D4.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.38.56:456][185]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.38.56:456][185]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.38.56:456][185]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:576][408]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.00:683][408]EditorErrors: Warning: No assets to check in!
+[2021.11.10-15.39.06:993][741]LogSlate: Window 'Source Control Login' being destroyed
+[2021.11.10-15.39.11:984][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:984][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:984][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:984][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.11:985][978]SourceControl: fatal: D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'D:/Games/Epic Games/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/f4nyt/Documents/GitHub/4th-year-project'
+[2021.11.10-15.39.12:098][978]EditorErrors: Warning: No assets to check in!
+[2021.11.10-15.53.34:438][694]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.10-15.53.34:461][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.10-15.53.34:462][694]PIE: New page: PIE session: Gameplay (Nov 10, 2021, 3:53:34 PM)
+[2021.11.10-15.53.34:462][694]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.53.34:468][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005612s)
+[2021.11.10-15.53.34:470][694]LogAIModule: Creating AISystem for world Gameplay
+[2021.11.10-15.53.34:470][694]LogPlayLevel: PIE: World Init took: (0.002571s)
+[2021.11.10-15.53.34:470][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Gameplay.Gameplay to /Game/Maps/UEDPIE_0_Gameplay.Gameplay (0.008562s)
+[2021.11.10-15.53.34:537][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.11.10-15.53.34:539][694]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.10-15.53.34:539][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.10-15.53.34:539][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.10-15.53.34:541][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.10-15.53.34:541][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.10-15.53.34:541][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.10-15.53.34:541][694]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.10-15.53.34:612][694]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.10-15.53.34:612][694]LogAudioMixer: Display: 1: FrontRight
+[2021.11.10-15.53.34:632][694]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.10-15.53.34:632][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.10-15.53.34:632][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.10-15.53.34:632][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.10-15.53.34:633][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.10-15.53.34:633][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.10-15.53.34:633][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.10-15.53.34:634][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.10-15.53.34:634][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.10-15.53.34:634][694]LogInit: FAudioDevice initialized.
+[2021.11.10-15.53.34:634][694]LogAudio: Display: Audio Device (ID: 5) registered with world 'Gameplay'.
+[2021.11.10-15.53.34:680][694]LogLoad: Game class is 'GameModeBase'
+[2021.11.10-15.53.34:682][694]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Gameplay.Gameplay up for play (max tick rate 60) at 2021.11.10-15.53.34
+[2021.11.10-15.53.34:682][694]LogWorld: Bringing up level for play took: 0.000529
+[2021.11.10-15.53.34:682][694]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.11.10-15.53.34:713][694]PIE: Server logged in
+[2021.11.10-15.53.34:714][694]PIE: Play in editor total start time 0.261 seconds.
+[2021.11.10-15.54.07:475][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.54.07:475][283]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Gameplay
+[2021.11.10-15.54.07:475][283]LogWorld: UWorld::CleanupWorld for Gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-15.54.07:476][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.54.07:487][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.10-15.54.07:552][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-15.54.07:596][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.10-15.54.07:596][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.54.07:598][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.10-15.54.07:618][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.10-15.54.07:622][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.11.10-15.54.07:659][284]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.11.10-15.54.38:448][714]LogUObjectHash: Compacting FUObjectHashTables data took   6.23ms
+[2021.11.10-15.54.38:458][714]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay550EFD0442BC930519C924AE315CE41D.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-15.54.38:609][714]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData9E8014B3444B6BA0FC5B569A8BAFCCD3.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-15.54.38:629][714]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-15.54.38:629][714]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-15.54.38:629][714]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
