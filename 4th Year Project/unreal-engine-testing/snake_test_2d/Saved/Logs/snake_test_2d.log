@@ -1454,3 +1454,16 @@ Sky Sphere
 [2021.11.10-14.31.30:532][286]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame1F4D4824407EC47AEEE7A8ABF12AAF59.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
 [2021.11.10-14.31.30:552][286]AssetCheck: New page: Asset Save: BP_MainGame
 [2021.11.10-14.31.30:552][286]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-14.44.26:144][841]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2021.11.10-14.44.26:154][841]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto98DB46A57468A2516EF274D98D8974D3B.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto9.umap'
+[2021.11.10-14.44.26:156][841]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.074
+[2021.11.10-14.44.26:156][841]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2021.11.10-14.44.26:156][841]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([2] browsable assets)...
+[2021.11.10-14.44.26:156][841]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.10-14.44.26:183][841]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto93B5990C24853099D177EBEACB1AEA065.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto9.uasset'
+[2021.11.10-14.44.26:184][841]LogFileHelpers: Auto-saving content packages took 0.029
+[2021.11.10-14.49.12:201][805]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-14.49.12:306][805]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.11.10-14.49.13:022][840]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameE092A17048535FF4538E5F89D6DF9999.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-14.49.13:044][840]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-14.49.13:044][840]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
