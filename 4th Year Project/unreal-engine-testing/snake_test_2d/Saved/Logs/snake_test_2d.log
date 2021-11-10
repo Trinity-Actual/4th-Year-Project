@@ -1181,3 +1181,59 @@ Sky Sphere
 [2021.11.10-11.17.11:526][411]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
 [2021.11.10-11.17.19:718][897]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> FoodColor_Enum
 [2021.11.10-11.17.19:775][897]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2021.11.10-11.17.47:507][547]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/FoodColor_Enum.FoodColor_Enum
+[2021.11.10-11.19.25:453][374]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.10-11.19.32:992][374]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-11.19.32:999][374]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.10-11.19.33:014][374]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.10-11.19.39:271][750]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Food
+[2021.11.10-11.19.39:290][750]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.10-11.19.43:348][986]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.19.44:413][986]LogRenderer: Reallocating scene render targets to support 964x680 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-11.19.46:301][ 92]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/FoodColor_EnumAD0D814D4CF88D8CA52412AC874F20BC.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/FoodColor_Enum.uasset'
+[2021.11.10-11.19.46:315][ 92]AssetCheck: New page: Asset Save: FoodColor_Enum
+[2021.11.10-11.19.46:315][ 92]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/FoodColor_Enum.FoodColor_Enum
+[2021.11.10-11.21.12:360][ 89]BlueprintLog: New page: Compile BP_Food
+[2021.11.10-11.21.12:758][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.11.10-11.21.13:365][122]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_Food0CC2B2524F4BEB2197E5AFBC5A62A921.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Food.uasset'
+[2021.11.10-11.21.13:382][122]AssetCheck: New page: Asset Save: BP_Food
+[2021.11.10-11.21.13:382][122]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.21.39:224][635]LogSlate: Took 0.022154 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.10-11.21.46:440][ 65]BlueprintLog: New page: Compile BP_Food
+[2021.11.10-11.21.46:503][ 65]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.11.10-11.21.47:095][ 96]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_Food6123BF434DD552AC475BB0988A90494D.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Food.uasset'
+[2021.11.10-11.21.47:108][ 96]AssetCheck: New page: Asset Save: BP_Food
+[2021.11.10-11.21.47:108][ 96]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.25.34:941][229]BlueprintLog: New page: Compile BP_Food
+[2021.11.10-11.25.35:000][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2021.11.10-11.25.35:622][263]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_FoodA2BB3803494E511D8186D0A76847CDAE.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Food.uasset'
+[2021.11.10-11.25.35:640][263]AssetCheck: New page: Asset Save: BP_Food
+[2021.11.10-11.25.35:640][263]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.27.05:731][392]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.11.10-11.27.05:732][392]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.041
+[2021.11.10-11.27.05:733][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Food] ([2] browsable assets)...
+[2021.11.10-11.27.05:733][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Food]
+[2021.11.10-11.27.05:777][392]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_Food_Auto1A04C5FDF407F4332CAD2A3A57FEEE4BB.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_Food_Auto1.uasset'
+[2021.11.10-11.27.05:778][392]LogFileHelpers: Auto-saving content packages took 0.046
+[2021.11.10-11.28.33:480][497]LogEditorTransaction: Undo Delete current selection
+[2021.11.10-11.30.01:491][111]LogTexture: Display: Building textures: T_BluePolygon (BGRA8, 48X46)
+[2021.11.10-11.30.14:438][666]LogTexture: Display: Building textures: T_PurplePolygon (BGRA8, 48X46)
+[2021.11.10-11.30.20:323][906]LogTexture: Display: Building textures: T_Redpolygon (BGRA8, 48X46)
+[2021.11.10-11.30.26:696][149]LogTexture: Display: Building textures: T_YellowPolygon (BGRA8, 48X46)
+[2021.11.10-11.32.15:339][567]BlueprintLog: New page: Compile BP_Food
+[2021.11.10-11.32.15:401][567]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.11.10-11.32.16:022][601]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_FoodE2AF92CB4E857C828BE71F9F87593625.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Food.uasset'
+[2021.11.10-11.32.16:043][601]AssetCheck: New page: Asset Save: BP_Food
+[2021.11.10-11.32.16:043][601]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.34.57:355][367]BlueprintLog: New page: Compile BP_Food
+[2021.11.10-11.34.57:689][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2021.11.10-11.34.58:335][402]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_FoodB89BF5B04965FA5FF88735A2A22F86DE.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Food.uasset'
+[2021.11.10-11.34.58:352][402]AssetCheck: New page: Asset Save: BP_Food
+[2021.11.10-11.34.58:352][402]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Food.BP_Food
+[2021.11.10-11.35.50:440][371]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-11.35.50:448][371]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.10-11.35.50:464][371]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.10-11.35.54:719][627]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Block
+[2021.11.10-11.35.54:723][627]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.10-11.35.56:389][721]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.11.10-11.36.25:483][387]LogTexture: Display: Building textures: T_greySquare (BGRA8, 32X32)
