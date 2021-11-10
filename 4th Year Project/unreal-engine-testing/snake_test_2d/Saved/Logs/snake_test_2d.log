@@ -1237,3 +1237,194 @@ Sky Sphere
 [2021.11.10-11.35.54:723][627]LogContentBrowser: End creating deferred item NewBlueprint
 [2021.11.10-11.35.56:389][721]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Block.BP_Block
 [2021.11.10-11.36.25:483][387]LogTexture: Display: Building textures: T_greySquare (BGRA8, 32X32)
+[2021.11.10-11.38.36:834][975]BlueprintLog: New page: Compile BP_Block
+[2021.11.10-11.38.36:898][975]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2021.11.10-11.38.37:510][  5]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_BlockA7AFA53440C3B74A01A6958D8ED6EAF2.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_Block.uasset'
+[2021.11.10-11.38.37:528][  5]AssetCheck: New page: Asset Save: BP_Block
+[2021.11.10-11.38.37:528][  5]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_Block.BP_Block
+[2021.11.10-11.38.48:740][584]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-11.38.48:748][584]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.10-11.38.48:764][584]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.10-11.38.56:349][ 36]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SnakeBodyPart
+[2021.11.10-11.38.56:354][ 36]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.10-11.38.57:528][102]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart
+[2021.11.10-11.41.13:259][540]LogContentBrowser: Deferred new asset file creation: NewPaperFlipbook
+[2021.11.10-11.41.13:274][540]LogContentBrowser: Creating deferred item: NewPaperFlipbook
+[2021.11.10-11.41.17:130][772]LogContentBrowser: Attempting asset rename: NewPaperFlipbook -> TestBook
+[2021.11.10-11.41.17:415][772]LogContentBrowser: End creating deferred item NewPaperFlipbook
+[2021.11.10-11.41.18:835][852]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Flipbooks/TestBook.TestBook
+[2021.11.10-11.41.18:988][853]LogRenderer: Reallocating scene render targets to support 1524x732 Format 10 NumSamples 1 (Frame:1).
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead2 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead10 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead11 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead6 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead8 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead7 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead1 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead9 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead4 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead5 (BGRA8, 32X32)
+[2021.11.10-11.41.50:781][791]LogTexture: Display: Building textures: T_Dead3 (BGRA8, 32X32)
+[2021.11.10-11.41.50:799][791]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/Flipbooks/Beath_Flipbook.Beath_Flipbook
+[2021.11.10-11.45.21:776][808]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-11.45.21:778][808]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-11.45.28:307][165]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2021.11.10-11.45.28:318][165]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay07ABA76444B5794F50460CB495832E37.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay.umap'
+[2021.11.10-11.45.28:341][165]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_BuiltData4B5CE5DD4A81300B8C797E92EF1E1E23.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Maps/Gameplay_BuiltData.uasset'
+[2021.11.10-11.45.28:359][165]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.10-11.45.28:359][165]LogContentValidation: Display: Validating World /Game/Maps/Gameplay.Gameplay
+[2021.11.10-11.45.28:360][165]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/Gameplay_BuiltData.Gameplay_BuiltData
+[2021.11.10-11.45.31:615][334]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.11.10-11.45.33:690][334]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.10-11.45.34:158][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.11.10-11.45.39:745][654]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.10-11.45.39:745][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.10-11.45.57:065][690]BlueprintLog: New page: Compile BP_SnakeBodyPart
+[2021.11.10-11.45.57:132][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.11.10-11.45.57:981][737]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_SnakeBodyPart23D01781481470E2235AE2A35E06BA97.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_SnakeBodyPart.uasset'
+[2021.11.10-11.45.57:995][737]AssetCheck: New page: Asset Save: BP_SnakeBodyPart
+[2021.11.10-11.45.57:995][737]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SnakeBodyPart.BP_SnakeBodyPart
+[2021.11.10-11.46.34:424][835]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.10-11.46.34:430][835]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.10-11.46.34:447][835]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.10-11.46.42:975][330]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_MainGame
+[2021.11.10-11.46.42:979][330]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.10-11.55.28:311][217]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.11.10-11.55.28:322][217]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto295C6A99C48E1AC7BC7AEC296AEC4AE53.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto2.umap'
+[2021.11.10-11.55.28:323][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.079
+[2021.11.10-11.55.28:323][217]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2021.11.10-11.57.20:466][230]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.00.19:654][832]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.00.19:737][832]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.11.10-12.00.20:286][862]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame792F6D5C4B78C3E32B0DA59F3A63CED0.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.00.20:301][862]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.00.20:301][862]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.01.11:890][918]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.01.11:966][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.11.10-12.01.12:815][966]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameCBD4F4D941F83FD6E2BFBABCBE2C1A60.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.01.12:832][966]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.01.12:832][966]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.01.27:038][810]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.01.27:115][810]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.11.10-12.01.27:793][848]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame591F519E476910DB711E049674AF73BC.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.01.27:817][848]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.01.27:817][848]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.01.45:961][917]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.01.46:041][917]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.11.10-12.01.46:564][945]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameE893580E4116777ECB747FB6244585B1.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.01.46:582][945]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.01.46:582][945]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.02.52:709][811]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.02.52:791][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.11.10-12.02.53:249][836]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame4EE1E45949A3EAE4E79A55B83A9F308A.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.02.53:264][836]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.02.53:264][836]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.05.29:114][909]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2021.11.10-12.05.29:127][909]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto39FD47DCB48F25C4DB901DCAAD98958E4.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto3.umap'
+[2021.11.10-12.05.29:128][909]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.062
+[2021.11.10-12.05.29:128][909]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.062
+[2021.11.10-12.06.22:433][509]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.06.22:515][509]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.11.10-12.06.23:079][524]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameB2E706884D358A0E92EDC1A1741A0AB4.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.06.23:096][524]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.06.23:096][524]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.06.37:457][381]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.06.37:533][381]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.11.10-12.06.37:887][400]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameB8B1F1E144BF3DAD6DF6E4A79EEAB1F6.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.06.37:900][400]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.06.37:900][400]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.07.00:945][769]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.07.01:018][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.11.10-12.07.01:508][795]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameF607926342EBF47E5F0C45BC799B24F3.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.07.01:528][795]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.07.01:528][795]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.07.21:654][988]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.07.21:731][988]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2021.11.10-12.07.22:228][ 15]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame743363994B0500E4372CF5BB4DC37025.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.07.22:246][ 15]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.07.22:246][ 15]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.07.28:467][383]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.07.28:542][383]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2021.11.10-12.07.29:029][409]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame66AD33B342B948F6B1E166BB8FA10DE9.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.07.29:042][409]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.07.29:042][409]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.08.54:104][519]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.08.54:180][519]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.11.10-12.08.54:702][547]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameBF7D790F4C4C2134A51B2AB56F4C63AC.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.08.54:719][547]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.08.54:719][547]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.09.05:952][213]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.09.06:035][213]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.11.10-12.09.06:489][236]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameF96D33B949A996E2B6174A9BBD9B3AA0.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.09.06:504][236]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.09.06:504][236]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.10.46:093][425]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame6DB39EF64A81B2C18BF20AA86D9DC047.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.10.46:110][425]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.10.46:110][425]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.16.04:111][422]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2021.11.10-12.16.04:119][422]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto4EA0DA0C8407A7767555B01A8EE898335.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto4.umap'
+[2021.11.10-12.16.04:121][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.065
+[2021.11.10-12.16.04:121][422]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2021.11.10-12.16.04:122][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([2] browsable assets)...
+[2021.11.10-12.16.04:122][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.10-12.16.04:128][422]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto4FA477DE3460BC1090A1CD8B2DE53890A.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto4.uasset'
+[2021.11.10-12.16.04:129][422]LogFileHelpers: Auto-saving content packages took 0.008
+[2021.11.10-12.17.49:548][670]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.17.49:631][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.11.10-12.17.50:047][692]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame78918EC048AF21854B1FB79301B54454.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.17.50:063][692]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.17.50:063][692]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.18.08:213][745]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.10-12.18.08:259][745]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.10-12.19.30:781][ 25]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.19.31:152][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.11.10-12.19.31:571][ 46]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame58F4690D42DCE1FD8B6952A9A4448129.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.19.31:590][ 46]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.19.31:590][ 46]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.20.41:043][116]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.20.41:123][116]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2021.11.10-12.20.41:559][139]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame9D6B7DBE4DCF923CCDEF0395BEF88269.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.20.41:580][139]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.20.41:580][139]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.24.56:714][683]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.24.56:798][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.11.10-12.24.57:301][709]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame624635F24CC747C43C69E69EF52ADFD7.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.24.57:320][709]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.24.57:320][709]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.27.04:554][769]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.11.10-12.27.04:565][769]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto5D31DE87943B55119FD7AA5A7CEC01EC1.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto5.umap'
+[2021.11.10-12.27.04:567][769]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.064
+[2021.11.10-12.27.04:567][769]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.11.10-12.27.04:568][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([2] browsable assets)...
+[2021.11.10-12.27.04:568][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.10-12.27.04:585][769]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto5237ABE264D6BF285CBBAE990CF056330.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto5.uasset'
+[2021.11.10-12.27.04:586][769]LogFileHelpers: Auto-saving content packages took 0.019
+[2021.11.10-12.27.35:817][ 63]LogTexture: Display: Building textures: T_YellowSquare (BGRA8, 32X32)
+[2021.11.10-12.27.42:310][320]LogTexture: Display: Building textures: T_RedSquare (BGRA8, 32X32)
+[2021.11.10-12.27.44:358][442]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.27.44:440][442]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.11.10-12.27.45:059][475]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame4AFBF3E84307F7CB9FA8CB88C2A3ED61.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.27.45:077][475]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.27.45:077][475]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.31.46:920][159]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.31.47:002][159]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2021.11.10-12.31.47:371][177]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame1F14E96D4EDA3AC0CEEFE0A7F1C76F1A.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.31.47:390][177]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.31.47:391][177]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.34.48:842][965]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.34.48:925][965]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.11.10-12.34.49:371][987]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame3409B62A42926AE1FCCB6D915ED0E053.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.34.49:389][987]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.34.49:389][987]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.35.44:001][301]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.10-12.35.44:080][301]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.11.10-12.35.44:628][329]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame4E6E17164B21ECE6A238539CAE3FD148.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.35.44:647][329]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.35.44:647][329]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.36.22:365][886]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGameD0361EAF45447ACF9BD406BBFBBE83D0.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.10-12.36.22:384][886]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.10-12.36.22:384][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.10-12.37.05:328][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   4.81ms
+[2021.11.10-12.37.05:344][ 87]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto6457969384682467E5A329C91AEFFA015.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto6.umap'
+[2021.11.10-12.37.05:345][ 87]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.065
+[2021.11.10-12.37.05:345][ 87]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
