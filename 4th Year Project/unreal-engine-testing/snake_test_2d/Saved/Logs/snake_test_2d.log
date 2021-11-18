@@ -939,3 +939,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.18-16.33.55:612][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_UI_HUD]
 [2021.11.18-16.33.55:630][843]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_UI_HUD_Auto2A6813143461EFE4DB56F99BB1E42D5C4.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_UI_HUD_Auto2.uasset'
 [2021.11.18-16.33.55:636][843]LogFileHelpers: Auto-saving content packages took 0.024
+[2021.11.18-17.06.16:787][121]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Gameplay.Gameplay:PersistentLevel.Gameplay
+[2021.11.18-17.06.21:002][345]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-17.06.21:002][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-17.08.58:538][731]LogEditorTransaction: Undo Delete current selection
+[2021.11.18-17.09.27:377][ 55]LogUObjectHash: Compacting FUObjectHashTables data took  12.18ms
+[2021.11.18-17.09.27:406][ 55]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Gameplay_Auto378A012294CED32941FE8829F0008C8C2.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Maps/Gameplay_Auto3.umap'
+[2021.11.18-17.09.27:409][ 55]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Gameplay' took 0.180
+[2021.11.18-17.09.27:409][ 55]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.180
+[2021.11.18-17.09.27:410][ 55]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_MainGame] ([4] browsable assets)...
+[2021.11.18-17.09.27:410][ 55]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_MainGame]
+[2021.11.18-17.09.27:577][ 55]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/BP_MainGame_Auto3C590A7954321C43095BB75ABE7B093A6.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/snake_test_2d/Saved/Autosaves/Game/Blueprints/BP_MainGame_Auto3.uasset'
+[2021.11.18-17.09.27:581][ 55]LogFileHelpers: Auto-saving content packages took 0.172
