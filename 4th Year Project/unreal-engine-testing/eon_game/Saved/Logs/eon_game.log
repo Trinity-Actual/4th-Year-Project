@@ -1584,3 +1584,231 @@ Make sure 'BP_MainGame_C' has been compiled for  Set Seconds
 [2021.11.18-15.06.45:719][964]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_MainGame23BABB0F46C333117349D98BBFCAA387.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_MainGame.uasset'
 [2021.11.18-15.06.45:738][964]AssetCheck: New page: Asset Save: BP_MainGame
 [2021.11.18-15.06.45:739][964]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.18-15.10.09:945][622]BlueprintLog: New page: Compile GameModeTimers
+[2021.11.18-15.10.10:021][622]LogUObjectHash: Compacting FUObjectHashTables data took   7.50ms
+[2021.11.18-15.10.10:426][642]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/GameModeTimersDA54F3B94429F52B7972949BE8226775.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/GameModeTimers.uasset'
+[2021.11.18-15.10.10:448][642]AssetCheck: New page: Asset Save: GameModeTimers
+[2021.11.18-15.10.10:448][642]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameModeTimers.GameModeTimers
+[2021.11.18-15.12.15:866][918]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.18-15.12.15:959][918]LogUObjectHash: Compacting FUObjectHashTables data took   6.57ms
+[2021.11.18-15.12.16:414][940]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_UI_HUDF02519E84C736A421B243AB1F09050E5.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.18-15.12.16:439][940]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.18-15.12.16:439][940]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.18-15.12.58:680][293]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.18-15.12.58:790][293]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2021.11.18-15.12.59:097][308]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_UI_HUDDA01663A41287C3687F6A8B729255CC9.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.18-15.12.59:128][308]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.18-15.12.59:128][308]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.18-15.13.47:802][107]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.18-15.13.47:886][107]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2021.11.18-15.13.48:390][131]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_UI_HUDDF3F27494F481B7A587B248C3A9CEA2E.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.18-15.13.48:415][131]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.18-15.13.48:415][131]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.18-15.14.18:286][892]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2021.11.18-15.14.18:293][892]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay51FF901C436197461886C0B0D8AC8FA9.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay.umap'
+[2021.11.18-15.14.18:321][892]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay_BuiltData355EB2F544DD83B484C8BA9F6499B51C.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay_BuiltData.uasset'
+[2021.11.18-15.14.18:344][892]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.14.18:344][892]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/gameplay_BuiltData.gameplay_BuiltData
+[2021.11.18-15.14.18:344][892]LogContentValidation: Display: Validating World /Game/Maps/gameplay.gameplay
+[2021.11.18-15.14.20:306][  3]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-15.14.20:314][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-15.14.20:314][  3]PIE: New page: PIE session: gameplay (Nov 18, 2021, 3:14:20 PM)
+[2021.11.18-15.14.20:315][  3]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_gameplay
+[2021.11.18-15.14.20:316][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001483s)
+[2021.11.18-15.14.20:317][  3]LogAIModule: Creating AISystem for world gameplay
+[2021.11.18-15.14.20:318][  3]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2021.11.18-15.14.20:318][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/gameplay.gameplay to /Game/Maps/UEDPIE_0_gameplay.gameplay (0.002584s)
+[2021.11.18-15.14.20:375][  3]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2021.11.18-15.14.20:376][  3]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-15.14.20:376][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-15.14.20:376][  3]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-15.14.20:376][  3]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-15.14.20:376][  3]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-15.14.20:376][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-15.14.20:383][  3]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-15.14.20:383][  3]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-15.14.20:400][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-15.14.20:402][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-15.14.20:402][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-15.14.20:402][  3]LogInit: FAudioDevice initialized.
+[2021.11.18-15.14.20:402][  3]LogAudio: Display: Audio Device (ID: 10) registered with world 'gameplay'.
+[2021.11.18-15.14.20:413][  3]LogLoad: Game class is 'GameModeTimers_C'
+[2021.11.18-15.14.20:414][  3]LogWorld: Bringing World /Game/Maps/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2021.11.18-15.14.20
+[2021.11.18-15.14.20:414][  3]LogWorld: Bringing up level for play took: 0.000413
+[2021.11.18-15.14.20:414][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.11.18-15.14.20:431][  3]PIE: Server logged in
+[2021.11.18-15.14.20:431][  3]PIE: Play in editor total start time 0.118 seconds.
+[2021.11.18-15.14.21:321][ 54]LogBlueprintUserMessages: [BP_MainGame_2] 1
+[2021.11.18-15.14.22:309][114]LogBlueprintUserMessages: [BP_MainGame_2] 2
+[2021.11.18-15.14.23:309][174]LogBlueprintUserMessages: [BP_MainGame_2] 3
+[2021.11.18-15.14.24:310][234]LogBlueprintUserMessages: [BP_MainGame_2] 4
+[2021.11.18-15.14.25:309][294]LogBlueprintUserMessages: [BP_MainGame_2] 5
+[2021.11.18-15.14.26:309][354]LogBlueprintUserMessages: [BP_MainGame_2] 6
+[2021.11.18-15.14.27:310][414]LogBlueprintUserMessages: [BP_MainGame_2] 7
+[2021.11.18-15.14.28:309][474]LogBlueprintUserMessages: [BP_MainGame_2] 8
+[2021.11.18-15.14.29:311][534]LogBlueprintUserMessages: [BP_MainGame_2] 9
+[2021.11.18-15.14.30:311][594]LogBlueprintUserMessages: [BP_MainGame_2] 10
+[2021.11.18-15.14.31:310][654]LogBlueprintUserMessages: [BP_MainGame_2] 11
+[2021.11.18-15.14.32:310][714]LogBlueprintUserMessages: [BP_MainGame_2] 12
+[2021.11.18-15.14.33:311][774]LogBlueprintUserMessages: [BP_MainGame_2] 13
+[2021.11.18-15.14.34:312][834]LogBlueprintUserMessages: [BP_MainGame_2] 14
+[2021.11.18-15.14.35:314][894]LogBlueprintUserMessages: [BP_MainGame_2] 15
+[2021.11.18-15.14.36:313][954]LogBlueprintUserMessages: [BP_MainGame_2] 16
+[2021.11.18-15.14.37:313][ 14]LogBlueprintUserMessages: [BP_MainGame_2] 17
+[2021.11.18-15.14.38:312][ 74]LogBlueprintUserMessages: [BP_MainGame_2] 18
+[2021.11.18-15.14.39:313][134]LogBlueprintUserMessages: [BP_MainGame_2] 19
+[2021.11.18-15.14.40:315][194]LogBlueprintUserMessages: [BP_MainGame_2] 20
+[2021.11.18-15.14.41:314][254]LogBlueprintUserMessages: [BP_MainGame_2] 21
+[2021.11.18-15.14.42:315][314]LogBlueprintUserMessages: [BP_MainGame_2] 22
+[2021.11.18-15.14.43:314][374]LogBlueprintUserMessages: [BP_MainGame_2] 23
+[2021.11.18-15.14.44:315][434]LogBlueprintUserMessages: [BP_MainGame_2] 24
+[2021.11.18-15.14.45:315][494]LogBlueprintUserMessages: [BP_MainGame_2] 25
+[2021.11.18-15.14.46:315][554]LogBlueprintUserMessages: [BP_MainGame_2] 26
+[2021.11.18-15.14.47:314][614]LogBlueprintUserMessages: [BP_MainGame_2] 27
+[2021.11.18-15.14.48:315][674]LogBlueprintUserMessages: [BP_MainGame_2] 28
+[2021.11.18-15.14.49:315][734]LogBlueprintUserMessages: [BP_MainGame_2] 29
+[2021.11.18-15.14.50:315][794]LogBlueprintUserMessages: [BP_MainGame_2] 30
+[2021.11.18-15.14.51:315][854]LogBlueprintUserMessages: [BP_MainGame_2] 31
+[2021.11.18-15.14.52:315][914]LogBlueprintUserMessages: [BP_MainGame_2] 32
+[2021.11.18-15.14.53:314][974]LogBlueprintUserMessages: [BP_MainGame_2] 33
+[2021.11.18-15.14.54:314][ 34]LogBlueprintUserMessages: [BP_MainGame_2] 34
+[2021.11.18-15.14.55:315][ 94]LogBlueprintUserMessages: [BP_MainGame_2] 35
+[2021.11.18-15.14.56:315][154]LogBlueprintUserMessages: [BP_MainGame_2] 36
+[2021.11.18-15.14.57:316][214]LogBlueprintUserMessages: [BP_MainGame_2] 37
+[2021.11.18-15.14.58:316][274]LogBlueprintUserMessages: [BP_MainGame_2] 38
+[2021.11.18-15.14.59:317][334]LogBlueprintUserMessages: [BP_MainGame_2] 39
+[2021.11.18-15.15.00:317][394]LogBlueprintUserMessages: [BP_MainGame_2] 40
+[2021.11.18-15.15.01:317][454]LogBlueprintUserMessages: [BP_MainGame_2] 41
+[2021.11.18-15.15.02:317][514]LogBlueprintUserMessages: [BP_MainGame_2] 42
+[2021.11.18-15.15.03:319][574]LogBlueprintUserMessages: [BP_MainGame_2] 43
+[2021.11.18-15.15.04:319][634]LogBlueprintUserMessages: [BP_MainGame_2] 44
+[2021.11.18-15.15.05:319][694]LogBlueprintUserMessages: [BP_MainGame_2] 45
+[2021.11.18-15.15.06:319][754]LogBlueprintUserMessages: [BP_MainGame_2] 46
+[2021.11.18-15.15.07:319][814]LogBlueprintUserMessages: [BP_MainGame_2] 47
+[2021.11.18-15.15.08:319][874]LogBlueprintUserMessages: [BP_MainGame_2] 48
+[2021.11.18-15.15.09:320][934]LogBlueprintUserMessages: [BP_MainGame_2] 49
+[2021.11.18-15.15.10:320][994]LogBlueprintUserMessages: [BP_MainGame_2] 50
+[2021.11.18-15.15.11:319][ 54]LogBlueprintUserMessages: [BP_MainGame_2] 51
+[2021.11.18-15.15.12:319][114]LogBlueprintUserMessages: [BP_MainGame_2] 52
+[2021.11.18-15.15.13:319][174]LogBlueprintUserMessages: [BP_MainGame_2] 53
+[2021.11.18-15.15.14:319][234]LogBlueprintUserMessages: [BP_MainGame_2] 54
+[2021.11.18-15.15.15:320][294]LogBlueprintUserMessages: [BP_MainGame_2] 55
+[2021.11.18-15.15.16:319][354]LogBlueprintUserMessages: [BP_MainGame_2] 56
+[2021.11.18-15.15.17:324][412]LogBlueprintUserMessages: [BP_MainGame_2] 57
+[2021.11.18-15.15.18:324][472]LogBlueprintUserMessages: [BP_MainGame_2] 58
+[2021.11.18-15.15.19:324][532]LogBlueprintUserMessages: [BP_MainGame_2] 59
+[2021.11.18-15.15.20:324][592]LogBlueprintUserMessages: [BP_MainGame_2] 60
+[2021.11.18-15.15.21:323][652]LogBlueprintUserMessages: [BP_MainGame_2] 0
+[2021.11.18-15.15.22:323][712]LogBlueprintUserMessages: [BP_MainGame_2] 1
+[2021.11.18-15.15.23:323][772]LogBlueprintUserMessages: [BP_MainGame_2] 2
+[2021.11.18-15.15.23:889][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-15.15.23:889][804]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_gameplay
+[2021.11.18-15.15.23:889][804]LogWorld: UWorld::CleanupWorld for gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-15.15.23:889][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-15.15.23:899][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-15.15.23:906][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-15.15.23:945][804]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.18-15.15.23:945][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-15.15.23:947][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-15.15.23:959][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-15.15.23:964][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2021.11.18-15.15.23:986][805]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.11.18-15.15.33:971][384]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.18-15.15.34:042][384]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.11.18-15.15.34:468][406]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_MainGame2C8227E94C59B3159BD89A92AFE19752.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.18-15.15.34:487][406]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.18-15.15.34:487][406]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.18-15.16.26:594][403]BlueprintLog: New page: Compile BP_UI_HUD
+[2021.11.18-15.16.26:656][403]LogUObjectHash: Compacting FUObjectHashTables data took   6.91ms
+[2021.11.18-15.16.27:168][429]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_UI_HUDAC1996DD425516B5D92F93B2D915E378.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_UI_HUD.uasset'
+[2021.11.18-15.16.27:185][429]AssetCheck: New page: Asset Save: BP_UI_HUD
+[2021.11.18-15.16.27:185][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/BP_UI_HUD.BP_UI_HUD
+[2021.11.18-15.16.30:168][602]LogUObjectHash: Compacting FUObjectHashTables data took   5.82ms
+[2021.11.18-15.16.30:174][602]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay20C321374CF4CA7D8AC963870E11F027.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay.umap'
+[2021.11.18-15.16.30:198][602]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay_BuiltDataAE3D71AB444922D5390B7989B7D25E00.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay_BuiltData.uasset'
+[2021.11.18-15.16.30:214][602]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.16.30:214][602]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/gameplay_BuiltData.gameplay_BuiltData
+[2021.11.18-15.16.30:214][602]LogContentValidation: Display: Validating World /Game/Maps/gameplay.gameplay
+[2021.11.18-15.16.31:240][664]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.18-15.16.31:246][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.18-15.16.31:246][664]PIE: New page: PIE session: gameplay (Nov 18, 2021, 3:16:31 PM)
+[2021.11.18-15.16.31:246][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_gameplay
+[2021.11.18-15.16.31:248][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001462s)
+[2021.11.18-15.16.31:249][664]LogAIModule: Creating AISystem for world gameplay
+[2021.11.18-15.16.31:249][664]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2021.11.18-15.16.31:249][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/gameplay.gameplay to /Game/Maps/UEDPIE_0_gameplay.gameplay (0.002513s)
+[2021.11.18-15.16.31:296][664]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.11.18-15.16.31:296][664]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.18-15.16.31:296][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.18-15.16.31:296][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.18-15.16.31:297][664]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.18-15.16.31:297][664]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.18-15.16.31:297][664]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.18-15.16.31:297][664]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.18-15.16.31:301][664]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.18-15.16.31:302][664]LogAudioMixer: Display: 1: FrontRight
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Using Audio Device Speaker/Headphone (Realtek High Definition Audio)
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.18-15.16.31:316][664]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.18-15.16.31:316][664]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.18-15.16.31:318][664]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.18-15.16.31:318][664]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.18-15.16.31:318][664]LogInit: FAudioDevice initialized.
+[2021.11.18-15.16.31:318][664]LogAudio: Display: Audio Device (ID: 11) registered with world 'gameplay'.
+[2021.11.18-15.16.31:329][664]LogLoad: Game class is 'GameModeTimers_C'
+[2021.11.18-15.16.31:330][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_gameplay.gameplay up for play (max tick rate 60) at 2021.11.18-15.16.31
+[2021.11.18-15.16.31:330][664]LogWorld: Bringing up level for play took: 0.000389
+[2021.11.18-15.16.31:330][664]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.11.18-15.16.31:334][664]PIE: Server logged in
+[2021.11.18-15.16.31:335][664]PIE: Play in editor total start time 0.091 seconds.
+[2021.11.18-15.16.36:230][958]LogBlueprintUserMessages: [BP_MainGame_2] 5
+[2021.11.18-15.16.41:232][258]LogBlueprintUserMessages: [BP_MainGame_2] 10
+[2021.11.18-15.16.42:789][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-15.16.42:789][349]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_gameplay
+[2021.11.18-15.16.42:789][349]LogWorld: UWorld::CleanupWorld for gameplay, bSessionEnded=true, bCleanupResources=true
+[2021.11.18-15.16.42:789][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-15.16.42:799][349]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.18-15.16.42:807][349]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.18-15.16.42:845][349]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.18-15.16.42:845][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-15.16.42:846][349]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.18-15.16.42:854][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2021.11.18-15.16.42:873][350]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.11.18-15.17.22:252][675]BlueprintLog: New page: Compile GameModeTimers
+[2021.11.18-15.17.22:326][675]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.11.18-15.17.22:648][690]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/GameModeTimers1FE9EC9B4D238D50602DB7B2E1BE5EC8.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/GameModeTimers.uasset'
+[2021.11.18-15.17.22:668][690]AssetCheck: New page: Asset Save: GameModeTimers
+[2021.11.18-15.17.22:668][690]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GameModeTimers.GameModeTimers
+[2021.11.18-15.17.23:365][732]BlueprintLog: New page: Compile BP_MainGame
+[2021.11.18-15.17.23:440][732]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2021.11.18-15.17.23:730][747]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/BP_MainGameB0C4892D43760A9E4B67C69BB24A16D4.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Blueprints/BP_MainGame.uasset'
+[2021.11.18-15.17.23:749][747]AssetCheck: New page: Asset Save: BP_MainGame
+[2021.11.18-15.17.23:749][747]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_MainGame.BP_MainGame
+[2021.11.18-15.17.24:768][803]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.11.18-15.17.24:775][803]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay48B8B86A4891282174EF38910B785D96.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay.umap'
+[2021.11.18-15.17.24:801][803]LogSavePackage: Moving 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Saved/gameplay_BuiltData70D943DA48BC9BBB4D0298883D9A70B3.tmp' to 'C:/Users/f4nyt/Documents/GitHub/4th-year-project/4th Year Project/unreal-engine-testing/eon_game/Content/Maps/gameplay_BuiltData.uasset'
+[2021.11.18-15.17.24:820][803]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.18-15.17.24:820][803]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/gameplay_BuiltData.gameplay_BuiltData
+[2021.11.18-15.17.24:821][803]LogContentValidation: Display: Validating World /Game/Maps/gameplay.gameplay
